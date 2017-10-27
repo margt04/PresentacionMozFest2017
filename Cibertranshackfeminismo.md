@@ -69,7 +69,7 @@ Comisión Interamericana de Derechos Humanos. 2015. Violencia contra personas LG
 
 La violencia contra las mujeres y diversidades sexuales esta presente en el entorno digital como un elemento más de control sobre nuestros cuerpos.
 
-#### Offline = Online
+                #### Offline = Online
 
 
 ![Ni una a menos](https://ichef-1.bbci.co.uk/news/624/cpsprodpb/108B4/production/_92446776_gettyimages-589317408.jpg)
@@ -105,18 +105,9 @@ Desde la decolonialidad de las tecnologías y por las tecnologías descolonizada
 
 ## Algunas experiencias Latinoamericanas
 
+![internet feminista](https://eldesarmador.org/theme/img/principiosfeministas07.jpg)
 
-
-![El desarmador](https://eldesarmador.org/theme/img/nuevo-logo-cool.png)
-
-
-
-https://eldesarmador.org/
-
-
-
-
-
+---
 ## Autodefensas hackfeministas
 ![autodefensas hackfeministas](https://lab-interconectividades.net/wp-content/uploads/sites/20/2017/08/Taller-autodefensas-hackfeministas_oaxaca-2016_03.jpg)
 Comando Colibre + Laboratorio de Interconectividades
@@ -128,6 +119,17 @@ https://lab-interconectividades.net/autodefensas-hackfeministas/
 
 ![Ciberfeminitasguatemala](https://ceppas.org.gt/media/images/pictures/ciberfeministasgt_big.png)
 
+
+## Imilla Hacker 
+
+![El desarmador](https://eldesarmador.org/theme/img/nuevo-logo-cool.png)
+
+
+https://archive.org/details/mozilla-fest-2017-imilla-hacker
+
+https://eldesarmador.org/
+
+
 ## Cl4ndestina
 
 ![Clandestina'](https://camo.githubusercontent.com/ed5916d2f35497ee679e4b7d67ed5012b08e08c0/68747470733a2f2f692e696d6775722e636f6d2f46705849456a562e6a7067)
@@ -138,9 +140,6 @@ https://github.com/cl4ndestina/lab/blob/master/admynas-clandestinas.md
 ## Ciberseguras
 
 ![](https://pbs.twimg.com/tweet_video_thumb/DCddxZ3VoAAzkMS.jpg)
-
-
-
 
 ---
 
