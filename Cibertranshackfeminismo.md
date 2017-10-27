@@ -110,6 +110,7 @@ Desde la decolonialidad de las tecnologías y por las tecnologías descolonizada
 ---
 ## Autodefensas hackfeministas
 ![autodefensas hackfeministas](https://lab-interconectividades.net/wp-content/uploads/sites/20/2017/08/Taller-autodefensas-hackfeministas_oaxaca-2016_03.jpg)
+
 Comando Colibre + Laboratorio de Interconectividades
 https://lab-interconectividades.net/autodefensas-hackfeministas/
 
