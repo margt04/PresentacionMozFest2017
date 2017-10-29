@@ -69,7 +69,8 @@ Comisión Interamericana de Derechos Humanos. 2015. Violencia contra personas LG
 
 La violencia contra las mujeres y diversidades sexuales esta presente en el entorno digital como un elemento más de control sobre nuestros cuerpos.
 
-                #### Offline = Online
+
+### Offline = Online
 
 
 ![Ni una a menos](https://ichef-1.bbci.co.uk/news/624/cpsprodpb/108B4/production/_92446776_gettyimages-589317408.jpg)
@@ -151,7 +152,12 @@ https://github.com/cl4ndestina/lab/blob/master/admynas-clandestinas.md
 
 #### Steffania Paola 
 Página: https://stepaola.github.io
+
 Correo: stepaola@inventati.org
+Tuiter: @stepaola
+
+
 #### March 
 Tuiter: @ciberfemGT
+
 Correo: mar_tzunun@riseup.net
