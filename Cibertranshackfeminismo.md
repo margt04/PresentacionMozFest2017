@@ -115,7 +115,9 @@ Desde la decolonialidad de las tecnologías y por las tecnologías descolonizada
 ![Labinterconectividades](https://lab-interconectividades.net/wp-content/uploads/sites/20/2017/10/frame-taller-autodefensas-hackfeministas-oax-04.png)
 
 Comando Colibrí + Laboratorio de Interconectividades
+
 Más acerca del proyecto: https://lab-interconectividades.net/autodefensas-hackfeministas/
+
 Video del proceso: https://lab-interconectividades.net/video-autodefensas-hackfeministas-oax/
 
 
